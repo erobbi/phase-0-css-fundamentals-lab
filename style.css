@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+figure {
+  text-align: center;
+  /*is it ok to center an image like this?*/
+}
+.figcaption {
+  font-size: 100;
+  /*not working*/
+}
+#a {
+  text-align: center;
+/*not working*/
+}
+p {
+  text-align: auto;
+}
